@@ -1,0 +1,13 @@
+Package: scramble
+Type: Package
+Title: Scramble Data While Retaining Types and Basic Properties of Inputs
+Version: 0.1.0
+Authors@R: person(given = "Jacob", family = "Goldstein-Greenwood", email = "jacobgg@virginia.edu", role = c("aut", "cre"))
+Description: Functions in the scramble package obfuscate data in data frames,
+    matrixes, and vectors, while retaining the types and basic properties of
+    the input data (approximate NA proportions, approximate minimum and
+    maximum values, etc.).
+License: Mozilla Public License 2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
